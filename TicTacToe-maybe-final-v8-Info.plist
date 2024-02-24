@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mantinia-Regular.otf</string>
+		<string>e-Ukraine-Bold.otf</string>
+		<string>e-Ukraine-Light.otf</string>
+		<string>e-Ukraine-Medium.otf</string>
+		<string>e-Ukraine-Regular.otf</string>
+		<string>e-Ukraine-Thin.otf</string>
+		<string>e-Ukraine-UltraLight.otf</string>
+		<string>e-UkraineHead-Bold.otf</string>
+		<string>e-UkraineHead-Light.otf</string>
+		<string>e-UkraineHead-LOGO.otf</string>
+		<string>e-UkraineHead-Medium.otf</string>
+		<string>e-UkraineHead-NAME.otf</string>
+		<string>e-UkraineHead-Regular.otf</string>
+		<string>e-UkraineHead-Thin.otf</string>
+		<string>e-UkraineHead-UltraLight.otf</string>
+	</array>
+</dict>
+</plist>
