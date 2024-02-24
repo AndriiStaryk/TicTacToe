@@ -53,7 +53,7 @@ struct MainMenu: View {
                 
                 Spacer()
                 
-                Text(viewModel.localization.language == .ukrainian ? "Цю гру зробив А.Старик" : "This game developed by A.Staryk")
+                Text(viewModel.localization.language == .ukrainian ? "Цю гру зробив А.Старик ©2022" : "This game developed by A.Staryk ©2022")
                     .font(.custom(viewModel.fontDiya, size: 18))
                     .foregroundColor(viewModel.textColor)
             }.padding()
